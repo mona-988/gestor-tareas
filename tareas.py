@@ -10,3 +10,6 @@ def listar_tareas(lista):
    if 0 <= indice < len(lista):
     lista.pop(indice)
    return list
+
+def añadir_prueba(a,b):
+    return a+b 
